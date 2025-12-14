@@ -1,0 +1,8 @@
+# Dependency directories
+/node_modules
+
+# Generated data file - IMPORTANT!
+user_data.csv
+
+# Logs
+*.log
